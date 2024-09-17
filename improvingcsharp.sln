@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "improvingcsharp", "improvingcsharp\improvingcsharp.csproj", "{D2A332E1-4151-465B-BC6A-92ECDE3502D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "Booleans\Booleans.csproj", "{C67874C3-A9B7-42F0-84F5-1FB29D991BF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booleans", "Booleans\Booleans.csproj", "{C67874C3-A9B7-42F0-84F5-1FB29D991BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ifelsecondition", "Ifelsecondition\Ifelsecondition.csproj", "{63BC1405-0FF6-4CD5-B886-F2D272B3D298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C67874C3-A9B7-42F0-84F5-1FB29D991BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67874C3-A9B7-42F0-84F5-1FB29D991BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67874C3-A9B7-42F0-84F5-1FB29D991BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BC1405-0FF6-4CD5-B886-F2D272B3D298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BC1405-0FF6-4CD5-B886-F2D272B3D298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BC1405-0FF6-4CD5-B886-F2D272B3D298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BC1405-0FF6-4CD5-B886-F2D272B3D298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
