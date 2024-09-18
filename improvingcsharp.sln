@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ifelsecondition", "Ifelseco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{68FFD34B-7D05-421B-8F41-10CF788C1109}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{858BA639-3D3A-437C-A64B-1CA6B58CD496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{68FFD34B-7D05-421B-8F41-10CF788C1109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68FFD34B-7D05-421B-8F41-10CF788C1109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68FFD34B-7D05-421B-8F41-10CF788C1109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858BA639-3D3A-437C-A64B-1CA6B58CD496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858BA639-3D3A-437C-A64B-1CA6B58CD496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858BA639-3D3A-437C-A64B-1CA6B58CD496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858BA639-3D3A-437C-A64B-1CA6B58CD496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

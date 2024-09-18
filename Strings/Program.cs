@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace improvingcsharp
+namespace String
 {
-    internal class strings
+    class Program
     {
         static void Main(string[] args)
         {
@@ -16,7 +12,7 @@ namespace improvingcsharp
 
             // INTERPOLAÇÃO DE STRINGS
             Console.WriteLine($"{nome} {sobreNome}");
-            
+
             string nomeCompleto = $"{nome} {sobreNome}";
             Console.WriteLine(nomeCompleto);
             int posicao = nomeCompleto.IndexOf("G");
