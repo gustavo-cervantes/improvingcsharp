@@ -17,9 +17,9 @@ namespace ForAndForEach
             // FOREACH É UTILIZADO QUANDO SE QUER PERCORRER UMA COLEÇÃO DE DADOS
             // ELE É MAIS LENTO QUE O FOR, USADO EXCLUSIVAMENTE COM ARRAYS
 
-            string[] nomes = { "Gustavo", "da", "Silveira", "Roldão" };
+            string[] nomeCompleto = { "Gustavo", "da", "Silveira", "Roldão" };
 
-            foreach (string nome in nomes)
+            foreach (string nome in nomeCompleto)
             {
                 Console.WriteLine(nome);
             }
