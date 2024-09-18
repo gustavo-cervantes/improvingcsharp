@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "improvingcsharp", "improvin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Booleans", "Booleans\Booleans.csproj", "{C67874C3-A9B7-42F0-84F5-1FB29D991BF8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ifelsecondition", "Ifelsecondition\Ifelsecondition.csproj", "{63BC1405-0FF6-4CD5-B886-F2D272B3D298}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfAndElseConditions", "Ifelsecondition\IfAndElseConditions.csproj", "{63BC1405-0FF6-4CD5-B886-F2D272B3D298}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{68FFD34B-7D05-421B-8F41-10CF788C1109}"
 EndProject
